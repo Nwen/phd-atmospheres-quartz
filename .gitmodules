@@ -1,0 +1,3 @@
+[submodule "libfoo"]
+	path = /content
+	url = https://github.com/Nwen/PhD-Atmospheres.git
